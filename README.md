@@ -71,14 +71,6 @@ The project includes:
 * Reduced motion support
 * Progressive enhancement for JavaScript features
 
-## Future Improvements
-
-* Dark mode
-* Contact form integration
-* Additional project pages
-* Backend integration
-* SEO improvements
-
 ## Author
 
 **Supriya**
